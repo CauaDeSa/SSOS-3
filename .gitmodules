@@ -1,0 +1,3 @@
+[submodule "my-shell"]
+	path = my-shell
+	url = https://github.com/CauaDeSa/my-shell.git
